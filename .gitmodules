@@ -1,0 +1,12 @@
+[submodule "auto_nav_oa"]
+	path = auto_nav_oa
+	url = git@github.com:lolster/auto_nav_oa.git
+[submodule "auto_nav_bridge"]
+	path = auto_nav_bridge
+	url = git@github.com:anushkumar27/auto_nav_bridge.git
+[submodule "auto_nav_planner"]
+	path = auto_nav_planner
+	url = git@github.com:anushkumar27/auto_nav_planner.git
+[submodule "auto_nav_commander"]
+	path = auto_nav_commander
+	url = git@github.com:anushkumar27/auto_nav_commander.git
